@@ -3,6 +3,8 @@
 #include <time.h>
 
 int main() {
+
+  printf("This game is developed by vikas yadav ");
   int random, guess;
   int no_of_guess = 0;
   srand(time(NULL));
